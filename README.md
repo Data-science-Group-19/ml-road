@@ -1,7 +1,15 @@
 # Machine Learning Road
 Machine Learning Resources, Practice and Research.
 
-## Disclamier
+## Data science and Machine learning course books
+
+| Book Name                                                     | Author                                       | Link                                                         | Category             |                 
+| :----------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ |
+| Python for data analysis                                             | Wes Mckitney                 | [[PDF]](https://github.com/Data-science-Group-19/ml-road/blob/master/resources/Python%20for%20Data%20Analysis%20(%20PDFDrive.com%20).pdf) | Data Analysis
+| Hands-On Machine Learning with Scikit-Learn and TensorFlow   | Aurélien Géron                                               | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)[[Github]](https://github.com/ageron/handson-ml) | Machine Learning              |
+
+
+### Disclamier
 
 The resources in this repo are only for educational purpose. Do not use resources in this repo for any form of commercial purpose.
 
@@ -9,7 +17,8 @@ If the author of ebook found your intelligence proprietary violated because of c
 
 ***
 
-## Courses
+### Courses
+
 
 | Course Name                                                  | Institution                | Lecturer                                                     | Link                                                         | Category                              |
 | :----------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :------------------------------------- |
@@ -62,8 +71,8 @@ If the author of ebook found your intelligence proprietary violated because of c
 | Machine Learning Yearning | Andrew Ng | [[译]](https://github.com/yanshengjia/ml-road/blob/master/resources/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E7%A7%98%E7%B1%8D.pdf)[[在线阅读]](https://accepteddoge.github.io/machine-learning-yearning-cn/docs/home/) | Machine Learning |
 | Foundations of Machine Learning | Mehryar Mohri | [[PDF]](https://github.com/yanshengjia/ml-road/blob/master/resources/Foundations%20of%20Machine%20Learning%20(2nd%20Edition).pdf)[[HomePage]](https://cs.nyu.edu/~mohri/mlbook/) | Machine Learning |
 
-## Papers
+### Papers
 
-### NLP
+#### NLP
 
 * Tixier A J P. Notes on Deep Learning for NLP[J]. arXiv preprint arXiv:1808.09772, 2018. [[Link]](https://arxiv.org/pdf/1808.09772.pdf)
